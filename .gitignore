@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# vscode
+.vscode/
+
+# res
+res/
+
+# data
+data/
+
+# .ipynb
+# *.ipynb
