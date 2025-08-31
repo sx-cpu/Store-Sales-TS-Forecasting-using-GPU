@@ -276,3 +276,4 @@ extreme gradient boosting (XGBoost) 是一种基于决策树的集成学习算�
 - 防止过拟合：模型过于复杂，完全记住训练集，但对测试集预测差。
 - 控制模型复杂度：让模型尽量简单、平滑，不让噪声主导预测。
 
+# DirRec (Direct-Recursive strategy)
